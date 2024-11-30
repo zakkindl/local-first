@@ -1,1 +1,3 @@
-This is a test for Git and R
+This is a test for Git and R by following the course.
+
+Additional text
